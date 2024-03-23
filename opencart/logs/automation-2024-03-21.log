@@ -1,0 +1,42 @@
+13:02:09.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:02:09.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:02:09.310 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:02:09.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:02:09.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:02:09.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:02:09.331 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:02:09.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:02:09.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:02:09.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:02:09.343 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:02:09.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:02:09.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:02:09.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:02:09.360 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:02:09.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:02:09.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:02:09.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:02:09.378 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:02:09.386 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - ***Starting Login Validation Test***
+13:02:09.386 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked My Account
+13:02:09.442 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked Login
+13:02:09.613 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Entered Username and Password
+13:02:09.744 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked LoginIN button
+13:02:10.238 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Account Successfully Logged in with valid Test Data
+13:02:10.240 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - ***Starting Login Validation Test***
+13:02:10.240 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked My Account
+13:02:10.284 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked Login
+13:02:10.426 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Entered Username and Password
+13:02:10.527 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked LoginIN button
+13:02:30.716 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Unable to Log in with invalid Test Data
+13:02:30.720 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - ***Starting Login Validation Test***
+13:02:30.720 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked My Account
+13:02:30.772 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked Login
+13:02:30.946 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Entered Username and Password
+13:02:31.063 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked LoginIN button
+13:02:51.312 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Unable to Log in with invalid Test Data
+13:02:51.314 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - ***Starting Login Validation Test***
+13:02:51.314 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked My Account
+13:02:51.363 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked Login
+13:02:51.527 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Entered Username and Password
+13:02:51.626 [main] INFO  testCases.TC_003_DataDrivenTestForLogin - Clicked LoginIN button

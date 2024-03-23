@@ -1,0 +1,13 @@
+11:27:48.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:27:50.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:27:50.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:27:52.674 [main] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:27:52.675 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:27:52.752 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:27:52.993 [main] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:27:53.185 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:27:53.549 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:27:55.418 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+11:27:56.036 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+11:27:57.945 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+11:27:59.009 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 

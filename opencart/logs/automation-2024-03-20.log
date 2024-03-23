@@ -1,0 +1,49 @@
+11:47:34.809 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:47:34.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:47:35.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:47:35.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:47:35.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:47:38.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:47:38.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:47:51.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:47:51.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:47:52.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:47:52.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:47:52.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:52:06.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:52:06.286 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:52:06.346 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:52:06.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:52:06.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:52:43.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:52:43.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:52:43.427 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:52:43.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:52:44.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:52:46.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:52:46.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:52:57.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:52:57.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:52:58.070 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:52:58.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:52:58.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:53:01.001 [main] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+12:27:03.239 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+12:27:03.251 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+12:27:03.527 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+12:27:03.756 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+12:27:04.160 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+12:27:05.915 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+12:27:05.916 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+12:27:06.008 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+12:27:06.351 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+12:27:06.649 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+12:27:06.649 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+12:27:07.033 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+12:27:09.375 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+12:27:09.375 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+13:00:04.019 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+13:00:04.031 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+13:00:04.286 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+13:00:04.504 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+13:00:04.871 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button

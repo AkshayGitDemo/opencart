@@ -1,0 +1,53 @@
+10:55:17.753 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+10:55:18.091 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:08:11.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:08:11.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:08:11.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:08:12.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:08:12.792 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:08:15.246 [main] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+11:08:17.278 [main] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:08:17.279 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:08:17.384 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:08:17.647 [main] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:08:17.837 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:08:18.302 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:11:03.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:11:03.457 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:11:03.597 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:11:03.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:11:04.543 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:11:06.949 [main] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+11:11:09.019 [main] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:11:09.020 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:11:09.507 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:11:09.752 [main] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:11:09.959 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:11:10.255 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:13:35.955 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:13:35.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:13:36.354 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:13:36.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:13:37.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:13:39.891 [main] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+11:13:41.870 [main] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:13:41.870 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:13:42.310 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:13:42.565 [main] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:13:42.805 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:13:43.183 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:14:20.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:14:20.802 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:14:20.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
+11:14:21.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling Registration Page
+11:14:21.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Continue Button
+11:14:24.317 [main] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+11:14:26.133 [main] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:14:26.134 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:14:26.207 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:14:26.465 [main] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:14:26.726 [main] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:14:27.111 [main] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:16:32.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:16:32.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking My Account
+11:16:33.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Account Registration
