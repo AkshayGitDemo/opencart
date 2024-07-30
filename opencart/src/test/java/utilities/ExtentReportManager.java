@@ -65,12 +65,13 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
 		extent.setSystemInfo("Environemnt", "QA");
 		
+		// Here we are reading values from TestNg XML files like os and browser values
 		String os = testContext.getCurrentXmlTest().getParameter("os");
 		extent.setSystemInfo("Operating System", os);
 		
 		String browser = testContext.getCurrentXmlTest().getParameter("browser");
 		extent.setSystemInfo("Browser", browser);
-		
+		//Here we are reading values of groups
 		List<String> includedGroups = testContext.getCurrentXmlTest().getIncludedGroups();
 		if(!includedGroups.isEmpty()) {
 		extent.setSystemInfo("Groups", includedGroups.toString());
@@ -127,7 +128,7 @@ public class ExtentReportManager implements ITestListener {
 				//sendEmail("akshaysingh1234@gmail.com","frie hjfj agsi uylh","akshaysingh1234@gmail.com");
 		
 	}
-	public void sendEmail(String senderEmail,String senderPassword,String recipientEmail)
+/*	public void sendEmail(String senderEmail,String senderPassword,String recipientEmail)
 	{
 		// SMTP server properties
         Properties properties = new Properties();
@@ -185,7 +186,7 @@ public class ExtentReportManager implements ITestListener {
             e.printStackTrace();
         }
             
-	}
+	} */
 
 
 }
